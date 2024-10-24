@@ -1,4 +1,4 @@
-![CI](https://github.com/freepad/env-setup/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/freepad/setup-env/actions/workflows/web.yml/badge.svg)
 
 # Webpack5
 
